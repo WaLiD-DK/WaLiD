@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/c/walid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="walid" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCOuBL4wDF5g43a873E3RQyA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="walid" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
