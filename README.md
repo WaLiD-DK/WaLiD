@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm DEKMOUS Adel - Walid</h1>
 <h3 align="center">A beginner from Algeria</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=walid-dk" alt="walid-dk" /></a> </p>
-
 - 📫 How to reach me **walid.dekmous13@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
