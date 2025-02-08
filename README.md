@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm DEKMOUS Adel - Walid</h1>
+<h1 align="center">Hi 👋, I'm WaLiD</h1>
 <h3 align="center">A beginner from Algeria</h3>
 
 - 📫 How to reach me **walid.dekmous13@gmail.com**
